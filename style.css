@@ -1,0 +1,53 @@
+body {
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2, ul{
+    font-size: 30px;
+    color: rgb(102, 94, 0)
+}
+
+a {
+    font-size: 30px;
+    color: rgb(4, 67, 0);
+}
+
+.code {
+    font-family: monospace;
+    font-size: 20px;
+    color: white;
+    background: rgb(2, 0, 34);
+    border-radius: 10px;
+    padding: 10px;
+    width: 70%;
+}
+
+table {
+    font-size: 30px;
+    border: none;
+    text-align: center;
+}
+
+th, td {
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black; 
+}
+
+footer {
+    font-size: 20px;
+    color: rgb(102, 94, 0);
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    text-align: right;
+    background: rgba(255, 255, 255, 0.724);
+    padding: 10px;
+    border-radius: 20px;
+}
